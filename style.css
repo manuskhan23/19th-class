@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.n-l{
+    background-color: brown;
+    color: white;
+    font-size: 25px;
+    padding: 15px;
+}
+.n-l>ul>li{
+    display: inline;
+    padding: 15px;
+}
+.list1{
+    margin-right: 370px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
