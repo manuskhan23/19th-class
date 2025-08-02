@@ -36,4 +36,38 @@ a{
 a:hover{
     text-decoration: white underline;
     transform:scale(1.10);
+    transform: rotateY(360deg);
+}
+img{
+    border-radius: 50%;
+}
+.img{
+    padding:20px 40px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#card{
+    width: 250px;
+    border-radius: 20px;
+    background-color: royalblue;
+    display: inline-block;
+}
+
+.main>p,h3{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.main>button{
+    background-color: blue;
+    color: white;
+    height:30px ;
+    width:150px ;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    border: none;
+    border-radius: 3px;
+}
+.main{
+    background-color: #efefef;
+    padding-top: 15px;
 }
